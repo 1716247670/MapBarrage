@@ -1,0 +1,1958 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.265515,
+                    30.567282
+                ]
+            },
+            "properties": {
+                "name": "琴台大剧院",
+                "address": "知音大道7号",
+                "overall_rating": "4.9",
+                "comment_num": "200",
+                "label": "剧院",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "很棒",
+                    "很大",
+                    "高大",
+                    "干净",
+                    "舒服",
+                    "最高",
+                    "一般",
+                    "便宜"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.332934,
+                    30.509218
+                ]
+            },
+            "properties": {
+                "name": "米乐星世界KTV(南湖店)",
+                "address": "武汉市洪山区文治街30号武汉维佳佰港城F4",
+                "overall_rating": "4.8",
+                "comment_num": "200",
+                "label": "KTV",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.313399,
+                    30.657684
+                ]
+            },
+            "properties": {
+                "name": "欢悦天堂家庭亲子体验中心(汉口城市广场店)",
+                "address": "武汉市江岸区后湖大道111号汉口城市广场F2",
+                "overall_rating": "4.6",
+                "comment_num": "22",
+                "label": "亲子活动",
+                "keywords": [
+                    "不错",
+                    "便宜",
+                    "欢悦",
+                    "挺好玩",
+                    "蛮久",
+                    "不好玩",
+                    "整洁",
+                    "舒服",
+                    "干净",
+                    "根本"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.343273,
+                    30.551381
+                ]
+            },
+            "properties": {
+                "name": "洪山广场",
+                "address": "湖北省武汉市武昌区中北路特1号",
+                "overall_rating": "4.5",
+                "comment_num": "120",
+                "label": "休闲广场",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.354452,
+                    30.558013
+                ]
+            },
+            "properties": {
+                "name": "武汉汉秀剧场",
+                "address": "水果湖街东湖路138号2栋",
+                "overall_rating": "4.4",
+                "comment_num": "28",
+                "label": "剧院",
+                "keywords": [
+                    "不错",
+                    "好好看",
+                    "重要",
+                    "确实",
+                    "容易",
+                    "唯美",
+                    "珍爱",
+                    "挺好",
+                    "不贵",
+                    "惊险"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310209,
+                    30.656088
+                ]
+            },
+            "properties": {
+                "name": "合和大唐(城市广场店)",
+                "address": "建设大道后湖大道地铁C1出口艳阳天大酒店二楼(同安家园,艳阳天酒店)",
+                "overall_rating": "4.4",
+                "comment_num": "80",
+                "label": "足疗",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.308228,
+                    30.605568
+                ]
+            },
+            "properties": {
+                "name": "胡桃里(三阳路店)",
+                "address": "四唯街道京汉大道1208号新长江国际裙楼1层8室",
+                "overall_rating": "4.3",
+                "comment_num": "30",
+                "label": "酒吧",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3123,
+                    30.543886
+                ]
+            },
+            "properties": {
+                "name": "首义广场",
+                "address": "湖北省武汉市武昌区武珞路特1号",
+                "overall_rating": "4.3",
+                "comment_num": "70",
+                "label": "休闲广场",
+                "keywords": [
+                    "不错",
+                    "很大",
+                    "方便",
+                    "舒服",
+                    "便利",
+                    "丰富",
+                    "最多",
+                    "浓烈",
+                    "著名",
+                    "确实"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.300987,
+                    30.592049
+                ]
+            },
+            "properties": {
+                "name": "SPACE CLUB(武汉吉庆街店)",
+                "address": "湖北省武汉市江岸区吉庆街1号一期",
+                "overall_rating": "4.8",
+                "comment_num": "0",
+                "label": "酒吧",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.355385,
+                    30.5675
+                ]
+            },
+            "properties": {
+                "name": "田汉大剧院",
+                "address": "湖北省武汉市武昌区中北路108号",
+                "overall_rating": "3.9",
+                "comment_num": "46",
+                "label": "剧院",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "便宜",
+                    "残旧",
+                    "蛮好",
+                    "丰富",
+                    "难吃",
+                    "挺好",
+                    "稀烂",
+                    "太慢"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374063,
+                    30.515664
+                ]
+            },
+            "properties": {
+                "name": "潮TOWN(卓刀泉店)",
+                "address": "湖北省武汉市洪山区卓刀泉南路特1号(湖北省民政厅培训大厦东北侧约50米)",
+                "overall_rating": "3.5",
+                "comment_num": "7",
+                "label": "洗浴",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.294851,
+                    30.588882
+                ]
+            },
+            "properties": {
+                "name": "阿曼达主题KTV(江汉路店)",
+                "address": "湖北省武汉市江汉区江汉路177号俊华大厦A座内俊华广场F6",
+                "overall_rating": "3.7",
+                "comment_num": "200",
+                "label": "KTV",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.305123,
+                    30.54711
+                ]
+            },
+            "properties": {
+                "name": "公馆KTV(司门口店)",
+                "address": "解放路338号五环峰国际广场潮流百货6楼",
+                "overall_rating": "4.6",
+                "comment_num": "200",
+                "label": "ktv",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.292113,
+                    30.623599
+                ]
+            },
+            "properties": {
+                "name": "欢乐空间量贩式ktv(花桥店)",
+                "address": "湖北省武汉市江岸区黄孝河路49号圆梦圆国际广场4楼",
+                "overall_rating": "4.6",
+                "comment_num": "113",
+                "label": "KTV",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277564,
+                    30.62594
+                ]
+            },
+            "properties": {
+                "name": "公馆KTV(唐家墩店)",
+                "address": "发展大道299号顶琇晶城5栋2楼(唐家墩中百旁边)",
+                "overall_rating": "4.6",
+                "comment_num": "200",
+                "label": "ktv",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410008,
+                    30.510538
+                ]
+            },
+            "properties": {
+                "name": "中影国际影城(光谷步行街天河店)",
+                "address": "光谷步行街C区3楼",
+                "overall_rating": "4.6",
+                "comment_num": "116",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.271455,
+                    30.601894
+                ]
+            },
+            "properties": {
+                "name": "纯k(花园道店)",
+                "address": "青年路308号花园道1期B栋3楼",
+                "overall_rating": "4.5",
+                "comment_num": "0",
+                "label": "ktv",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.265261,
+                    30.618553
+                ]
+            },
+            "properties": {
+                "name": "PANDA电竞中心(天街店)",
+                "address": "青年路金家墩特一号武汉天街E栋3F(可多斜对面电梯直达三楼)",
+                "overall_rating": "4.2",
+                "comment_num": "16",
+                "label": "电玩电竞",
+                "keywords": [
+                    "不错",
+                    "整洁",
+                    "流畅",
+                    "干净",
+                    "先进",
+                    "最低",
+                    "最高"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.175006,
+                    30.50409
+                ]
+            },
+            "properties": {
+                "name": "公馆KTV(湘隆时代广场店)",
+                "address": "武汉市蔡甸区宁康路58号湘隆时代广场F5",
+                "overall_rating": "4.5",
+                "comment_num": "200",
+                "label": "ktv",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.269067,
+                    30.566859
+                ]
+            },
+            "properties": {
+                "name": "琴台音乐厅",
+                "address": "知音大道7号",
+                "overall_rating": "4.9",
+                "comment_num": "37",
+                "label": "音乐厅",
+                "keywords": [
+                    "不错",
+                    "很棒",
+                    "方便",
+                    "先进",
+                    "便宜",
+                    "最高",
+                    "浪漫",
+                    "壮观",
+                    "高大",
+                    "清晰"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.407489,
+                    30.51043
+                ]
+            },
+            "properties": {
+                "name": "巨幕影城(光谷广场资本大厦店)",
+                "address": "民院路1号光谷资本大厦4层",
+                "overall_rating": "4.8",
+                "comment_num": "103",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.311142,
+                    30.546489
+                ]
+            },
+            "properties": {
+                "name": "湖北剧院",
+                "address": "湖北省武汉市武昌区西厂口1号",
+                "overall_rating": "4.8",
+                "comment_num": "17",
+                "label": "剧院",
+                "keywords": [
+                    "方便",
+                    "不错",
+                    "舒服",
+                    "憋屈",
+                    "太美",
+                    "最贵",
+                    "尴尬",
+                    "狭窄",
+                    "最低",
+                    "丰富"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.211989,
+                    30.549873
+                ]
+            },
+            "properties": {
+                "name": "艾尚525足道(龙阳路精品店)",
+                "address": "龙珠路龙阳南苑一楼第10档-3",
+                "overall_rating": "4.0",
+                "comment_num": "109",
+                "label": "足疗",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.266988,
+                    30.598162
+                ]
+            },
+            "properties": {
+                "name": "大唐足道(建设大道旗舰店)",
+                "address": "湖北省武汉市江汉区建设大道492号",
+                "overall_rating": "4.3",
+                "comment_num": "34",
+                "label": "足疗",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306399,
+                    30.552944
+                ]
+            },
+            "properties": {
+                "name": "武汉江汉环球电影城(解放路店)",
+                "address": "武汉市武昌区解放路464号假日乐园购物广场F1",
+                "overall_rating": "4.7",
+                "comment_num": "40",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277925,
+                    30.585101
+                ]
+            },
+            "properties": {
+                "name": "武商摩尔国际电影城(武汉国际广场店)",
+                "address": "湖北省武汉市江汉区解放大道690号武商MALLF7",
+                "overall_rating": "4.9",
+                "comment_num": "36",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297652,
+                    30.584663
+                ]
+            },
+            "properties": {
+                "name": "武汉横店电影城(江汉店)",
+                "address": "中山大道818号王府井百货/新佳丽广场7楼",
+                "overall_rating": "4.5",
+                "comment_num": "200",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.294304,
+                    30.59331
+                ]
+            },
+            "properties": {
+                "name": "武汉剧院",
+                "address": "解放大道1439号附近",
+                "overall_rating": "4.8",
+                "comment_num": "18",
+                "label": "剧院",
+                "keywords": [
+                    "不错",
+                    "壮重",
+                    "驯悍",
+                    "漂流",
+                    "很好",
+                    "卫生",
+                    "重建",
+                    "干净",
+                    "独特",
+                    "方便"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35237,
+                    30.557811
+                ]
+            },
+            "properties": {
+                "name": "大自然沐足(汉街店)",
+                "address": "东湖路91号嘉华酒店对面(地铁8号线水果湖站D出口)",
+                "overall_rating": "4.8",
+                "comment_num": "92",
+                "label": "足疗",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.246183,
+                    30.632544
+                ]
+            },
+            "properties": {
+                "name": "红郡足道驿馆(民航新村店)",
+                "address": "湖北省武汉市江汉区长港路特1号",
+                "overall_rating": "3.9",
+                "comment_num": "121",
+                "label": "洗浴",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.294285,
+                    30.581799
+                ]
+            },
+            "properties": {
+                "name": "民众乐园",
+                "address": "湖北省武汉市江汉区中山大道704号",
+                "overall_rating": "4.4",
+                "comment_num": "21",
+                "label": "休闲娱乐",
+                "keywords": [
+                    "不错",
+                    "悠久",
+                    "便利",
+                    "热闹",
+                    "漂亮",
+                    "方便",
+                    "年轻",
+                    "不久",
+                    "完全",
+                    "一般"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.43811,
+                    30.426882
+                ]
+            },
+            "properties": {
+                "name": "非常董事会(梁山头商业街店)",
+                "address": "武汉市江夏区梁山头商业街第一排B栋3层",
+                "overall_rating": "3.4",
+                "comment_num": "42",
+                "label": "KTV",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.401654,
+                    30.511657
+                ]
+            },
+            "properties": {
+                "name": "华夏国际影城(中商世界里店)",
+                "address": "湖北省武汉市洪山区珞喻路726号中商世界里·鲁巷广场购物中心F7",
+                "overall_rating": "4.8",
+                "comment_num": "29",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.181631,
+                    30.519794
+                ]
+            },
+            "properties": {
+                "name": "台湾人家别墅聚会轰趴",
+                "address": "东风大道金色港湾一期栖湖居10号",
+                "overall_rating": "4.3",
+                "comment_num": "22",
+                "label": "轰趴馆",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "宽敞",
+                    "忙碌",
+                    "耐心",
+                    "完美",
+                    "团建",
+                    "干净",
+                    "方便",
+                    "很大"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.389869,
+                    30.595278
+                ]
+            },
+            "properties": {
+                "name": "漫咖啡(武汉华侨城店)",
+                "address": "东湖生态旅游风景区欢乐大道华侨城东方里商业街S6-A号",
+                "overall_rating": "4.2",
+                "comment_num": "22",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "尊重",
+                    "很大",
+                    "吝啬",
+                    "不灵",
+                    "傲慢",
+                    "优雅",
+                    "一般",
+                    "糟糕",
+                    "直接"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.174833,
+                    30.503847
+                ]
+            },
+            "properties": {
+                "name": "湘隆时代广场",
+                "address": "武汉市蔡甸区宁康路58号",
+                "overall_rating": "3.9",
+                "comment_num": "7",
+                "label": "购物中心",
+                "keywords": [
+                    "方便",
+                    "便宜",
+                    "不错",
+                    "根本",
+                    "一般"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.172375,
+                    30.504575
+                ]
+            },
+            "properties": {
+                "name": "车泉水都(湘隆时代广场店)",
+                "address": "湖北省武汉市蔡甸区宁康路58号湘隆时代广场b4栋",
+                "overall_rating": "4",
+                "comment_num": "186",
+                "label": "洗浴按摩",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.363387,
+                    30.532727
+                ]
+            },
+            "properties": {
+                "name": "博纳国际影城(银泰创意城店)",
+                "address": "湖北省武汉市洪山区珞瑜路35号(街道口群光广场对面)银泰创意城F10",
+                "overall_rating": "4.3",
+                "comment_num": "114",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310739,
+                    30.629001
+                ]
+            },
+            "properties": {
+                "name": "家富富足(二七店)",
+                "address": "湖北省武汉市江岸区建设大道科技馆31号",
+                "overall_rating": "3.6",
+                "comment_num": "46",
+                "label": "洗浴按摩",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.261999,
+                    30.610197
+                ]
+            },
+            "properties": {
+                "name": "泛海国际影城(范湖万达广场店)",
+                "address": "湖北省武汉市江汉区云彩路198号范湖万达广场五层",
+                "overall_rating": "3.5",
+                "comment_num": "13",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.344941,
+                    30.557728
+                ]
+            },
+            "properties": {
+                "name": "韩蒸天下(汉街店)",
+                "address": "中北路海山金谷天城2A栋2704室（近地铁四号线楚河汉界D出口，近姚家岭公交站）",
+                "overall_rating": "4.1",
+                "comment_num": "57",
+                "label": "桑拿汗蒸",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.328405,
+                    30.661782
+                ]
+            },
+            "properties": {
+                "name": "华夏国际影城(后湖百步亭店)",
+                "address": "湖北省武汉市江岸区后湖大道268号新生活摩尔城3层",
+                "overall_rating": "4.4",
+                "comment_num": "24",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.390208,
+                    30.609448
+                ]
+            },
+            "properties": {
+                "name": "Ifree自由人影城(金地广场店)",
+                "address": "武汉市洪山区团结大道1335号金地广场F4",
+                "overall_rating": "4.4",
+                "comment_num": "61",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.809348,
+                    30.839762
+                ]
+            },
+            "properties": {
+                "name": "摩尔影城(新洲摩尔城店)",
+                "address": "武汉市新洲区邾城街衡州大道100号新洲摩尔城F5",
+                "overall_rating": "4.0",
+                "comment_num": "7",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.239246,
+                    30.628548
+                ]
+            },
+            "properties": {
+                "name": "宽渡茶介",
+                "address": "江旺路18号",
+                "overall_rating": "4.7",
+                "comment_num": "70",
+                "label": "茶座",
+                "keywords": [
+                    "不错",
+                    "舒适",
+                    "舒服",
+                    "优雅",
+                    "方便",
+                    "有趣",
+                    "亲切",
+                    "幽静",
+                    "宽敞",
+                    "精致"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.360803,
+                    30.531722
+                ]
+            },
+            "properties": {
+                "name": "武汉洪山天河国际影城(街道口店)",
+                "address": "湖北省武汉市洪山区珞喻路4号乐天城购物广场F1",
+                "overall_rating": "4.5",
+                "comment_num": "52",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.213195,
+                    30.565247
+                ]
+            },
+            "properties": {
+                "name": "金逸影城(武汉摩尔城王家湾店)",
+                "address": "湖北省武汉市汉阳区龙阳大道6号武汉摩尔城F5",
+                "overall_rating": "4.8",
+                "comment_num": "56",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.343372,
+                    30.563084
+                ]
+            },
+            "properties": {
+                "name": "红郡足道(公正路店)",
+                "address": "湖北省武汉市武昌区公正路35号金贵源酒店4楼",
+                "overall_rating": "3.9",
+                "comment_num": "91",
+                "label": "足疗",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297028,
+                    30.58504
+                ]
+            },
+            "properties": {
+                "name": "大汉口电影院(水塔店)",
+                "address": "水塔街中山大道539号大汉口城4楼",
+                "overall_rating": "4.0",
+                "comment_num": "5",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.396846,
+                    30.504205
+                ]
+            },
+            "properties": {
+                "name": "幸福蓝海国际影城(季佳荟雄楚店)",
+                "address": "湖北省武汉市洪山区雄楚大道888号季佳·荟雄楚F4",
+                "overall_rating": "4.6",
+                "comment_num": "3",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.241052,
+                    30.644744
+                ]
+            },
+            "properties": {
+                "name": "PANDA电竞中心(常青店)",
+                "address": "学府南路常青花园商业娱乐城3楼(近武汉轻工大学)",
+                "overall_rating": "4.3",
+                "comment_num": "42",
+                "label": "网吧",
+                "keywords": [
+                    "不错",
+                    "很棒",
+                    "挺好",
+                    "愉快",
+                    "干净",
+                    "很爽",
+                    "舒服",
+                    "清洁",
+                    "蛮好",
+                    "很足"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310991,
+                    30.540745
+                ]
+            },
+            "properties": {
+                "name": "横店电影城(泛悦汇KA街店)",
+                "address": "张之洞路151号泛悦汇南区F3层3-25室",
+                "overall_rating": "4.5",
+                "comment_num": "33",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.180871,
+                    30.513412
+                ]
+            },
+            "properties": {
+                "name": "万达影城(万达广场经开店)",
+                "address": "湖北省武汉市经济技术开发区东风大道111号万达广场F3",
+                "overall_rating": "4.8",
+                "comment_num": "80",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297874,
+                    30.58526
+                ]
+            },
+            "properties": {
+                "name": "星巴克(武汉王府井店)",
+                "address": "中山大道888号王府井百货一楼",
+                "overall_rating": "4.1",
+                "comment_num": "31",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "挺大",
+                    "快捷",
+                    "顺畅",
+                    "特大",
+                    "清淡",
+                    "干净",
+                    "方便",
+                    "简单",
+                    "稳定"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.292892,
+                    30.591804
+                ]
+            },
+            "properties": {
+                "name": "大笨象原创剧情密室逃脱(循礼门店)",
+                "address": "湖北省武汉市江岸区江汉路船舶广场老楼3楼",
+                "overall_rating": "5.0",
+                "comment_num": "109",
+                "label": "密室逃脱",
+                "keywords": [
+                    "焦虑",
+                    "恐怖",
+                    "不错",
+                    "耐心",
+                    "很棒",
+                    "流畅",
+                    "巧妙",
+                    "团建",
+                    "温柔",
+                    "简单"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.362247,
+                    30.531596
+                ]
+            },
+            "properties": {
+                "name": "星巴克(群光广场珞喻路店)",
+                "address": "珞瑜路6号群光广场一楼",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "浓郁",
+                    "舒服",
+                    "很棒",
+                    "一般",
+                    "挺大",
+                    "最爱",
+                    "很大",
+                    "不腻",
+                    "正好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.324131,
+                    30.537977
+                ]
+            },
+            "properties": {
+                "name": "嘉裕国际影城(万金广场店)",
+                "address": "湖北省武汉市武昌区中山路555号万金国际广场3层",
+                "overall_rating": "3.9",
+                "comment_num": "6",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.272356,
+                    30.601586
+                ]
+            },
+            "properties": {
+                "name": "星巴克(花园道店)",
+                "address": "青年路308号花园道1楼",
+                "overall_rating": "4.1",
+                "comment_num": "18",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "惬意",
+                    "新颖",
+                    "浓郁",
+                    "一大",
+                    "最好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.328593,
+                    30.475766
+                ]
+            },
+            "properties": {
+                "name": "星美国际影城(创意天地店)",
+                "address": "湖北省武汉市洪山区野芷湖西路16号创意天地剧场",
+                "overall_rating": "3.8",
+                "comment_num": "2",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.212321,
+                    30.538884
+                ]
+            },
+            "properties": {
+                "name": "纽宾凯环球影城(芳草路店)",
+                "address": "湖北省武汉市汉阳区芳草路97号纽宾凯国际社区-蜜城20号楼麦德龙3层",
+                "overall_rating": "3.9",
+                "comment_num": "17",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.36372,
+                    30.532321
+                ]
+            },
+            "properties": {
+                "name": "漫咖啡(街道口店)",
+                "address": "湖北省武汉市洪山区珞瑜路35号(街道口群光广场对面)银泰创意城F1",
+                "overall_rating": "4.2",
+                "comment_num": "37",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "凄凉",
+                    "可朗",
+                    "蛮大",
+                    "挺大",
+                    "重新",
+                    "软软",
+                    "宽敞",
+                    "舒适"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.21663,
+                    30.565898
+                ]
+            },
+            "properties": {
+                "name": "汉阳天河电影城(王家湾店)",
+                "address": "湖北省武汉市汉阳区汉阳大道687号汉商21世纪购物中心F3",
+                "overall_rating": "4.6",
+                "comment_num": "29",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.326574,
+                    30.379953
+                ]
+            },
+            "properties": {
+                "name": "万达影城(联投广场店)",
+                "address": "文化大道联投广场三层",
+                "overall_rating": "4.4",
+                "comment_num": "5",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.349346,
+                    30.535377
+                ]
+            },
+            "properties": {
+                "name": "兴汇影城(武商亚贸广场购物中心店)",
+                "address": "湖北省武汉市武昌区武珞路628号武商亚贸广场购物中心F6",
+                "overall_rating": "4.6",
+                "comment_num": "40",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.331834,
+                    30.373429
+                ]
+            },
+            "properties": {
+                "name": "华夏影城(江夏店)",
+                "address": "湖北省武汉市江夏区纸坊街道谭鑫路17号万豪世纪天街商业广场3楼1号",
+                "overall_rating": "3.9",
+                "comment_num": "2",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.415586,
+                    30.433501
+                ]
+            },
+            "properties": {
+                "name": "成功网咖(武铁店)",
+                "address": "湖北省武汉市江夏区藏龙大道59号",
+                "overall_rating": "4.4",
+                "comment_num": "40",
+                "label": "电玩电竞",
+                "keywords": [
+                    "便宜",
+                    "重新"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317346,
+                    30.616832
+                ]
+            },
+            "properties": {
+                "name": "百丽宫影城(武汉天地壹方购物中心中山大道店)",
+                "address": "中山大道1515号武汉天地壹方购物中心F4",
+                "overall_rating": "4.8",
+                "comment_num": "1",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.360274,
+                    30.53535
+                ]
+            },
+            "properties": {
+                "name": "珞珈山剧院",
+                "address": "湖北省武汉市武昌区珞狮路84号",
+                "overall_rating": "4.0",
+                "comment_num": "7",
+                "label": "剧院",
+                "keywords": [
+                    "不错"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.367255,
+                    30.624411
+                ]
+            },
+            "properties": {
+                "name": "奇奇乐园(奥山世纪广场店)",
+                "address": "湖北省武汉市青山区和平大道809号奥山世纪广场F3",
+                "overall_rating": "4.6",
+                "comment_num": "200",
+                "label": "儿童游乐园",
+                "keywords": [
+                    "奇奇",
+                    "不错",
+                    "奇妙",
+                    "方便",
+                    "便宜",
+                    "丰富",
+                    "挺大",
+                    "一般",
+                    "很大",
+                    "最爱"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.31188,
+                    30.657343
+                ]
+            },
+            "properties": {
+                "name": "摩尔国际电影城(汉口城市广场店)",
+                "address": "湖北省武汉市江岸区后湖大道与建设大道延长线交汇处汉口城市广场F3",
+                "overall_rating": "4.8",
+                "comment_num": "8",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.45193,
+                    30.50605
+                ]
+            },
+            "properties": {
+                "name": "武汉金逸星汇影城(嘉园店)",
+                "address": "光谷一路万科嘉园内武汉嘉园印象里F3",
+                "overall_rating": "4.0",
+                "comment_num": "2",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.213158,
+                    30.618743
+                ]
+            },
+            "properties": {
+                "name": "乘浩网咖(新科店)",
+                "address": "武汉市硚口区丰美路城市广场南区B17栋2层",
+                "overall_rating": "3.9",
+                "comment_num": "148",
+                "label": "电玩电竞",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.305115,
+                    30.602132
+                ]
+            },
+            "properties": {
+                "name": "武汉人艺中南剧场",
+                "address": "京汉大道1001号(球场横街口，近三阳路口轻轨)",
+                "overall_rating": "4.8",
+                "comment_num": "11",
+                "label": "剧院",
+                "keywords": [
+                    "紧凑",
+                    "精湛",
+                    "流畅",
+                    "有趣",
+                    "充满",
+                    "方便"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.336047,
+                    30.359512
+                ]
+            },
+            "properties": {
+                "name": "银兴国际影城(江夏店)",
+                "address": "江夏大道128号附1号中央大街2号楼4层",
+                "overall_rating": "4.6",
+                "comment_num": "29",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.307569,
+                    30.597486
+                ]
+            },
+            "properties": {
+                "name": "啤契精酿啤酒",
+                "address": "湖北武汉市江岸区中山大道岳飞街45号立方停车场2~6号",
+                "overall_rating": "4.1",
+                "comment_num": "48",
+                "label": "酒吧",
+                "keywords": [
+                    "不错",
+                    "精致",
+                    "很小",
+                    "确实",
+                    "很棒",
+                    "一般",
+                    "浓郁",
+                    "难吃",
+                    "很嫩",
+                    "酸甜"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.311202,
+                    30.540568
+                ]
+            },
+            "properties": {
+                "name": "纸盒咖啡(泛悦汇店)",
+                "address": "湖北省武汉市武昌区黄鹤楼街张之洞路151号泛悦汇KA街1层A-L1-044号",
+                "overall_rating": "4.3",
+                "comment_num": "108",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "一般",
+                    "很棒",
+                    "难吃",
+                    "惬意",
+                    "浓郁",
+                    "遗憾",
+                    "酥松",
+                    "甜腻"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306198,
+                    30.593289
+                ]
+            },
+            "properties": {
+                "name": "魔界咖啡(黎黄陂路店)",
+                "address": "黎黄陂路26号",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "惬意",
+                    "一般",
+                    "慵懒",
+                    "很小",
+                    "很棒",
+                    "浓郁",
+                    "清新",
+                    "完全"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.274063,
+                    30.57486
+                ]
+            },
+            "properties": {
+                "name": "金逸影城(凯德广场武胜店)",
+                "address": "湖北省武汉市硚口区中山大道238号凯德广场F7",
+                "overall_rating": "4.7",
+                "comment_num": "188",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.360559,
+                    30.532175
+                ]
+            },
+            "properties": {
+                "name": "vr间客虚拟现实娱乐吧体验馆(街道口店)",
+                "address": "珞喻路阜华大厦C座1402(地铁2号线B出口背后20米，花桥胖嫂煲旁边电梯楼上)",
+                "overall_rating": "4.5",
+                "comment_num": "146",
+                "label": "VR",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.294472,
+                    30.602434
+                ]
+            },
+            "properties": {
+                "name": "微茫咖啡(马祖路店)",
+                "address": "马祖路15号1栋一单元1层2室",
+                "overall_rating": "4.3",
+                "comment_num": "55",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "清新",
+                    "舒服",
+                    "很甜",
+                    "干净",
+                    "确实",
+                    "惬意",
+                    "宽敞",
+                    "微甜",
+                    "很足"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.242885,
+                    30.656644
+                ]
+            },
+            "properties": {
+                "name": "CGV影城(金银潭ScreenX店)",
+                "address": "湖北省武汉市东西湖区金银潭大道1号永旺梦乐城F3",
+                "overall_rating": "4.8",
+                "comment_num": "128",
+                "label": "电影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.275824,
+                    30.549408
+                ]
+            },
+            "properties": {
+                "name": "左岸咖啡吧(拦江路店)",
+                "address": "拦江路中国工商银行隔壁",
+                "overall_rating": "4.0",
+                "comment_num": "64",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "不腻",
+                    "方便",
+                    "不甜",
+                    "清爽",
+                    "舒适",
+                    "甜腻",
+                    "重要",
+                    "很足"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.23948,
+                    31.281034
+                ]
+            },
+            "properties": {
+                "name": "武汉乡间农家乐",
+                "address": "张家大湾33号",
+                "overall_rating": "4.3",
+                "comment_num": "27",
+                "label": "农家院",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "干净",
+                    "一般",
+                    "挺好吃",
+                    "蛮高",
+                    "稳定",
+                    "整洁",
+                    "卫生",
+                    "便利"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.334125,
+                    30.353399
+                ]
+            },
+            "properties": {
+                "name": "天使咖啡(兴新街店)",
+                "address": "湖北省武汉市江夏区兴新街东路17号",
+                "overall_rating": "3.8",
+                "comment_num": "95",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "慵懒",
+                    "确实",
+                    "细腻",
+                    "一般",
+                    "惬意",
+                    "清新",
+                    "妥妥",
+                    "惊喜"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.31147,
+                    30.553495
+                ]
+            },
+            "properties": {
+                "name": "务实咖啡(粮道街店)",
+                "address": "粮道街60-68号A栋1层3-1号(文化中学斜对面，按摩医院旁巷子里)",
+                "overall_rating": "4.5",
+                "comment_num": "101",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "温柔",
+                    "舒适",
+                    "愉快",
+                    "浓郁",
+                    "温暖",
+                    "暖和",
+                    "松软",
+                    "简单"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.295751,
+                    30.589936
+                ]
+            },
+            "properties": {
+                "name": "喵呜影咖",
+                "address": "保成路114号",
+                "overall_rating": "4.9",
+                "comment_num": "50",
+                "label": "私人影院",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26851,
+                    30.555945
+                ]
+            },
+            "properties": {
+                "name": "岛上咖啡",
+                "address": "湖北省武汉市汉阳区汉阳大道180号",
+                "overall_rating": "4",
+                "comment_num": "42",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "蛮高",
+                    "蛮好",
+                    "很足",
+                    "利湿",
+                    "稀烂",
+                    "清单",
+                    "不同",
+                    "优雅"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.417164,
+                    30.515005
+                ]
+            },
+            "properties": {
+                "name": "锁石咖啡屋",
+                "address": "湖北武汉市洪山区珞喻路1037号华中科技大学4楼",
+                "overall_rating": "3.8",
+                "comment_num": "35",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "充满",
+                    "惬意",
+                    "热爱",
+                    "热闹",
+                    "温暖",
+                    "有名",
+                    "一大",
+                    "一般",
+                    "方便"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.283105,
+                    30.605091
+                ]
+            },
+            "properties": {
+                "name": "武汉杂技厅",
+                "address": "湖北省武汉市江汉区北湖街道建设大道739号",
+                "overall_rating": "4.7",
+                "comment_num": "115",
+                "label": "剧院",
+                "keywords": [
+                    "不错",
+                    "很好",
+                    "蛮好",
+                    "好好看",
+                    "一般",
+                    "不通",
+                    "辛苦",
+                    "重建",
+                    "最高"
+                ]
+            }
+        }
+    ]
+}

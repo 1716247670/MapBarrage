@@ -1,11 +1,18 @@
 <template>
     <div>
-        <vue-danmaku v-model="danmus" class="danmaku" ref="danmaku" use-slot :top="60" :channels="0"
-            :randomChannel="false">
-            <template slot="dm" slot-scope="{ index, danmu }">
-                <div class="danmaku-name">{{ index }}:{{ danmu }}</div>
-            </template>
-        </vue-danmaku>
+        <template v-for="(danmu, index) in danmus">
+            <vue-danmaku v-model="danmu.keywords" class="danmaku" ref="danmaku" loop use-slot :channels="0"
+                :randomChannel="false" :style="{ top: index * 93 + 'px' }" :speeds="100 + (danmu.keywords.length * 5)"
+                isSuspend>
+                <template slot="dm" slot-scope="{ index, danmu }">
+                    <div class="danmaku-name" v-if="danmu.name">
+                        <span style="color: blue;">{{ danmu.name }}</span>
+                        :{{ danmu.keywords ? danmu.keywords.join(',') : '无' }}
+                    </div>
+                </template>
+            </vue-danmaku>
+        </template>
+
         <div id="map-container">
         </div>
     </div>
@@ -26,19 +33,19 @@ export default {
     data() {
         return {
             danmus: [
-                '我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈',
-                'akjdflfj', 'akdflakjf','lkdajdfoa', 'aldfjakf', 
-                'akjdflfj', 'akdflakjf','lkdajdfoa', 'aldfjakf', 
-                'akjdflfj', 'akdflakjf','lkdajdfoa', 'aldfjakf', 
-                'akjdflfj', 'akdflakjf','lkdajdfoa', 'aldfjakf', 
-                'akjdflfj', 'akdflakjf','lkdajdfoa', 'aldfjakf', 
-                'akjdflfj', 'akdflakjf','lkdajdfoa', 'aldfjakf', 
-                'akjdflfj', 'akdflakjf','lkdajdfoa', 'aldfjakf', 
+                { keywords: ['我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈'] },
+                { keywords: ['111', '11', '1', '1'] },
+                { keywords: ['我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈'] },
+                { keywords: ['我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈'] },
+                { keywords: ['我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈'] },
+                { keywords: ['我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈'] },
+                { keywords: ['我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈'] },
+                { keywords: ['我是弹幕', '好好好', '嘿嘿嘿', '哈哈哈'] },
             ]
         }
     },
     mounted() {
-        console.log('mounted');
+        const that = this;
         mapbox.accessToken = 'pk.eyJ1IjoiemhvbmdkaXNodW1hIiwiYSI6ImNsNXJoYXR5eTI2bGgzZW53d2didWF1c3AifQ.6vOplM2NQc_xnJW3aA5ZBA';
         const map = new mapbox.Map({
             container: 'map-container', // container ID
@@ -90,13 +97,13 @@ export default {
                         1, 'red'
                     ],
                     // 热力点的大小
-                    'heatmap-radius': [
-                        'interpolate',
-                        ['linear'],
-                        ['to-number', ['get', 'comment_num']],
-                        0, 10, // 在最小缩放级别时使用较大的半径
-                        200, 50
-                    ],
+                    // 'heatmap-radius': [
+                    //     'interpolate',
+                    //     ['linear'],
+                    //     ['to-number', ['get', 'comment_num']],
+                    //     0, 10, // 在最小缩放级别时使用较大的半径
+                    //     200, 50
+                    // ],
                     // 热力图的透明度
                     'heatmap-opacity': [
                         'interpolate',
@@ -143,23 +150,20 @@ export default {
         })
         //视口改变时调用此方法
         function viewportChanged() {
-
             if (map.getSource('gridsource')) {
                 map.removeLayer('grid-layer')
                 map.removeSource('gridsource')
             } else {
-                const squareGrid = createGrid();
+                const squareGrid = createGrid(8);
                 const randomPoints = poi;
-                squareGrid.features.forEach(gridCell => {
-
+                for (let i = 0; i < squareGrid.features.length; i++) {
+                    let gridCell = squareGrid.features[i];
                     // 将随机点分配到网格中
                     const pointsInCell = randomPoints.features.filter(point => turf.booleanPointInPolygon(point, gridCell.geometry));
-                    console.log(pointsInCell);
+                    that.danmus[i].keywords = pointsInCell.map(point => point.properties)
                     gridCell.properties.pointCount = parseInt(pointsInCell.length);
-                    console.log(gridCell);
-                });
-                console.log(squareGrid);
-
+                }
+                console.log(that.danmus);
                 // 找出最大和最小点数
                 const maxPointCount = Math.max(...squareGrid.features.map(cell => cell.properties.pointCount));
                 const minPointCount = Math.min(...squareGrid.features.map(cell => cell.properties.pointCount));
@@ -187,43 +191,25 @@ export default {
             }
         }
         //根据视口生成格网
-        function createGrid() {
+        function createGrid(num) {
             const result = getBounds(); //获取视口边界
             const { lngMin, lngMax, latMin, latMax } = result
             const bbox = [lngMin, latMin, lngMax, latMax];  //格网坐标 minX,minY,maxX,maxY. modify here.
-            const topLeft = turf.point([lngMin, latMin]);
-            const bottomLeft = turf.point([lngMin, latMax]);
 
-            const height = turf.distance(topLeft, bottomLeft, { units: 'kilometers' });
+            // 计算十个小矩形的边界坐标
+            const bboxHeight = (bbox[3] - bbox[1]) / num; // 计算每个小矩形的高度
+            const grids = [];
+            for (let i = 0; i < num; i++) {
+                const minY = bbox[1] + i * bboxHeight;
+                const maxY = minY + bboxHeight;
+                const gridBbox = [bbox[0], minY, bbox[2], maxY]; // 使用整个地图范围的宽度
+                const gridRectangle = turf.bboxPolygon(gridBbox);
+                grids.push(gridRectangle);
+            }
+            // 将十个小矩形组合成一个GeoJSON对象
+            const squareGrid = turf.featureCollection(grids.reverse());
+            console.log(squareGrid);
 
-            // const currentZoom = map.getZoom()
-            const cellNum = 10
-            const cellSize = height / cellNum;  //格网长度 
-            const options = {
-                units: 'kilometers',
-            };
-            const squareGrid = turf.squareGrid(bbox, cellSize, options);  //生成格网
-
-            // console.log(squareGrid);
-
-            // const cellSizeX = 0.2; // X 方向上格网的宽度
-            // const cellSizeY = 0.1; // Y 方向上格网的高度
-
-            // const grid = [];
-            // for (let x = mapViewport[0]; x < mapViewport[2]; x += cellSizeX) {
-            //     for (let y = mapViewport[1]; y < mapViewport[3]; y += cellSizeY) {
-            //         const cell = turf.bboxPolygon([x, y, x + cellSizeX, y + cellSizeY]);
-            //         grid.push(cell);
-            //     }
-            // }
-
-            // console.log('生成的矩形格网数量：', grid.length);
-
-            // // 将网格数据转换为 GeoJSON 格式
-            // const gridGeoJSON = turf.featureCollection(grid.map(cell => turf.bboxPolygon(turf.bbox(cell))));
-
-            // // 输出 GeoJSON 格式的网格数据
-            // console.log(JSON.stringify(gridGeoJSON));
             return squareGrid;
         }
         //生成poi点
@@ -276,7 +262,7 @@ export default {
     left: 0;
     top: 0;
     width: 100vw;
-    height: calc(100vh - 50px);
+    height: calc((100vh - 50px)/8);
     z-index: 999;
     pointer-events: none;
     /* 禁止弹幕元素被选中 */
@@ -284,6 +270,7 @@ export default {
 }
 
 .danmaku-name {
-    color: red;
+    margin-top: 20px;
+    color: green;
 }
 </style>

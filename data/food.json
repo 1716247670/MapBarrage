@@ -1,0 +1,3145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.275982,
+                    30.599254
+                ]
+            },
+            "properties": {
+                "name": "夏氏砂锅(万松园总店)",
+                "address": "湖北省武汉市江汉区雪松路73号",
+                "tag": "美食;中餐厅",
+                "price": "106.0",
+                "overall_rating": "4.4",
+                "comment_num": "68",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "鲜美",
+                    "很好",
+                    "方便",
+                    "软嫩",
+                    "蛮足",
+                    "很烂",
+                    "不辣",
+                    "很软"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.324342,
+                    30.5607
+                ]
+            },
+            "properties": {
+                "name": "谢先生酒店(沙湖店)",
+                "address": "友谊大道6号广达大厦1-4层(地税局旁)",
+                "tag": "美食;中餐厅",
+                "price": "103.0",
+                "overall_rating": "4.4",
+                "comment_num": "42",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "难吃",
+                    "偏辣",
+                    "方便",
+                    "优雅",
+                    "一般",
+                    "便宜",
+                    "挺好吃",
+                    "很嫩",
+                    "很足"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.291653,
+                    30.586841
+                ]
+            },
+            "properties": {
+                "name": "严老幺烧麦(自治街店)",
+                "address": "前进四路240号（19中学旁边）",
+                "tag": "美食;中餐厅",
+                "price": "18.0",
+                "overall_rating": "4.3",
+                "comment_num": "50",
+                "label": "快餐厅",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "吃辣",
+                    "鲜脆",
+                    "薄脆",
+                    "舒坦",
+                    "软硬",
+                    "太慢",
+                    "晦气",
+                    "稀缺"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.349307,
+                    30.544714
+                ]
+            },
+            "properties": {
+                "name": "湖锦酒楼(八一路店)",
+                "address": "八一路105号",
+                "tag": "美食;中餐厅",
+                "price": "113.0",
+                "overall_rating": "4.6",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很棒",
+                    "很好",
+                    "方便",
+                    "挺嫩",
+                    "挺足",
+                    "不辣",
+                    "吃辣",
+                    "精致"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.421951,
+                    30.548571
+                ]
+            },
+            "properties": {
+                "name": "翠竹园",
+                "address": "植物园路大李村289-1号",
+                "tag": "美食;中餐厅",
+                "price": "88.0",
+                "overall_rating": "4.4",
+                "comment_num": "15",
+                "label": "农家菜",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.425201,
+                    30.512256
+                ]
+            },
+            "properties": {
+                "name": "湖锦酒楼(光谷店)",
+                "address": "珞喻路88号(华中科技大学光谷体育馆对面)",
+                "tag": "美食;中餐厅",
+                "price": "116.0",
+                "overall_rating": "4.5",
+                "comment_num": "105",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "精致",
+                    "一般",
+                    "很好",
+                    "吃辣",
+                    "蛮久",
+                    "蛮好",
+                    "很棒",
+                    "难吃",
+                    "挺大"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.346806,
+                    30.559667
+                ]
+            },
+            "properties": {
+                "name": "南京大牌档(凯德1818店)",
+                "address": "湖北省武汉市武昌区中北路109号凯德1818F6",
+                "tag": "美食;中餐厅",
+                "price": "69.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "苏帮菜",
+                "keywords": [
+                    "不错",
+                    "清淡",
+                    "不腻",
+                    "鲜美",
+                    "一般",
+                    "偏甜",
+                    "惊艳",
+                    "清爽",
+                    "很甜",
+                    "微甜"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.166456,
+                    30.50812
+                ]
+            },
+            "properties": {
+                "name": "湖锦酒楼(沌口店)",
+                "address": "湖北省武汉市蔡甸区博学路28号",
+                "tag": "美食;中餐厅",
+                "price": "106.0",
+                "overall_rating": "4.8",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "高大",
+                    "很大",
+                    "优雅",
+                    "很足",
+                    "方便",
+                    "干净",
+                    "精致",
+                    "愉快"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.312636,
+                    30.567726
+                ]
+            },
+            "properties": {
+                "name": "湖锦酒楼(锦江店)",
+                "address": "湖北省武汉市武昌区临江大道88号(锦江国际城旁)",
+                "tag": "美食;中餐厅",
+                "price": "132.0",
+                "overall_rating": "4.3",
+                "comment_num": "73",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "方便",
+                    "脆脆",
+                    "偏贵",
+                    "较贵",
+                    "很足",
+                    "蛮久",
+                    "丰富",
+                    "难吃"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.342728,
+                    30.47958
+                ]
+            },
+            "properties": {
+                "name": "荷清水香农家菜馆(野芷湖店)",
+                "address": "珞狮南路恒信4s车店正对面",
+                "tag": "美食;中餐厅",
+                "price": "110.0",
+                "overall_rating": "4.3",
+                "comment_num": "48",
+                "label": "烧烤店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "很足",
+                    "干净",
+                    "鲜美",
+                    "一般",
+                    "很辣",
+                    "挺急",
+                    "不烂",
+                    "蛮好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277196,
+                    30.605515
+                ]
+            },
+            "properties": {
+                "name": "湖锦酒楼(国宴店)",
+                "address": "新华路243号",
+                "tag": "美食;中餐厅",
+                "price": "142.0",
+                "overall_rating": "4.4",
+                "comment_num": "106",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "精致",
+                    "高大",
+                    "吃辣",
+                    "不辣",
+                    "很大",
+                    "方便",
+                    "丰盛",
+                    "不愧",
+                    "舒适"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.323402,
+                    30.55733
+                ]
+            },
+            "properties": {
+                "name": "胡桃里(昙华林店)",
+                "address": "湖北省武汉市武昌区中山路365号泛悦汇",
+                "tag": "美食;中餐厅",
+                "price": "97.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "酒吧",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "惊艳",
+                    "难吃",
+                    "很棒",
+                    "酥脆",
+                    "很嫩",
+                    "方便",
+                    "舒服",
+                    "确实"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.300783,
+                    30.579413
+                ]
+            },
+            "properties": {
+                "name": "刘胖子家常菜(黄陂街总店)",
+                "address": "黄陂街95号",
+                "tag": "美食;中餐厅",
+                "price": "58.0",
+                "overall_rating": "4.4",
+                "comment_num": "75",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "便宜",
+                    "一般",
+                    "火爆",
+                    "干净",
+                    "很软",
+                    "很辣",
+                    "很足",
+                    "鲜嫩",
+                    "不贵"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.276766,
+                    30.547762
+                ]
+            },
+            "properties": {
+                "name": "蟹神咩咩特色海鲜(拦江路店)",
+                "address": "湖北省武汉市汉阳区腰路堤30号",
+                "tag": "美食;中餐厅",
+                "price": "85.0",
+                "overall_rating": "4.5",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "吃辣",
+                    "很足",
+                    "很辣",
+                    "很小",
+                    "确实",
+                    "不辣",
+                    "干净",
+                    "很大"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.37126,
+                    30.586144
+                ]
+            },
+            "properties": {
+                "name": "鱼头泡饭(东冶路店)",
+                "address": "欢乐大道东湖别苑旁",
+                "tag": "美食;中餐厅",
+                "price": "109.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很嫩",
+                    "鲜美",
+                    "确实",
+                    "浓郁",
+                    "很棒",
+                    "很鲜",
+                    "挺好吃",
+                    "最好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.446585,
+                    30.506224
+                ]
+            },
+            "properties": {
+                "name": "颐和尚景酒店(光谷创业街店)",
+                "address": "湖北省武汉市洪山区关山街道光谷创业街66号",
+                "tag": "美食;中餐厅",
+                "price": "117.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "优雅",
+                    "方便",
+                    "舒适",
+                    "很棒",
+                    "干净",
+                    "确实",
+                    "清淡",
+                    "精致"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.400286,
+                    30.503717
+                ]
+            },
+            "properties": {
+                "name": "大中华酒楼(金地中心店)",
+                "address": "雄楚大道金地中心城东区1号楼1楼",
+                "tag": "美食;中餐厅",
+                "price": "118.0",
+                "overall_rating": "4.8",
+                "comment_num": "197",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "雄楚",
+                    "很嫩",
+                    "一般",
+                    "方便",
+                    "很足",
+                    "不腻",
+                    "很棒",
+                    "鲜嫩",
+                    "便宜"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408187,
+                    30.504147
+                ]
+            },
+            "properties": {
+                "name": "谢先生酒店·宴会厅(光谷店)",
+                "address": "雄楚大道981号立信大厦",
+                "tag": "美食;中餐厅",
+                "price": "5933.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "雄楚",
+                    "方便",
+                    "很大",
+                    "很足",
+                    "高大",
+                    "一般",
+                    "不腻",
+                    "确实",
+                    "精致"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277144,
+                    30.606187
+                ]
+            },
+            "properties": {
+                "name": "湖北三五醇酒店(新华路店)",
+                "address": "新华路245号(北湖区委旁)",
+                "tag": "美食;中餐厅",
+                "price": "97.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "便宜",
+                    "一般",
+                    "浓郁",
+                    "方便",
+                    "很大",
+                    "很足",
+                    "惊艳",
+                    "很嫩",
+                    "干净"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.279004,
+                    30.603265
+                ]
+            },
+            "properties": {
+                "name": "亢龙太子酒轩(金融店)",
+                "address": "建设大道711号(建设大道与新华路交汇处)",
+                "tag": "美食;中餐厅",
+                "price": "106.0",
+                "overall_rating": "4.4",
+                "comment_num": "74",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "蛮好",
+                    "方便",
+                    "香脆",
+                    "蛮足",
+                    "整洁",
+                    "宽敞",
+                    "舒适",
+                    "便利",
+                    "便宜"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.254681,
+                    30.55826
+                ]
+            },
+            "properties": {
+                "name": "艳阳天大酒店(五里新村店)",
+                "address": "汉阳大道五里新村396号",
+                "tag": "美食;中餐厅",
+                "price": "77.0",
+                "overall_rating": "4.1",
+                "comment_num": "62",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "最爱",
+                    "干净",
+                    "很嫩",
+                    "鲜嫩",
+                    "整洁",
+                    "豪华",
+                    "很好",
+                    "热闹",
+                    "漂亮"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.356625,
+                    30.584799
+                ]
+            },
+            "properties": {
+                "name": "巴厘龙虾(沙湖店)",
+                "address": "湖北省武汉市武昌区沙湖路9号",
+                "tag": "美食;中餐厅",
+                "price": "143.0",
+                "overall_rating": "4.5",
+                "comment_num": "200",
+                "label": "小龙虾店",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "干净",
+                    "挺好吃",
+                    "最爱",
+                    "完全",
+                    "很大",
+                    "确实",
+                    "惊艳",
+                    "有名"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297388,
+                    30.609819
+                ]
+            },
+            "properties": {
+                "name": "神仙钵湘香土菜馆(光华路店)",
+                "address": "光华路3号附5号",
+                "tag": "美食;中餐厅",
+                "price": "59.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "农家菜",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很足",
+                    "便宜",
+                    "酥脆",
+                    "脆脆",
+                    "确实",
+                    "很烂",
+                    "酸甜",
+                    "很嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.323095,
+                    30.563039
+                ]
+            },
+            "properties": {
+                "name": "国宾楼",
+                "address": "友谊大道特一号国宾楼六楼",
+                "tag": "美食;中餐厅",
+                "price": "119.0",
+                "overall_rating": "4.3",
+                "comment_num": "56",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "酥脆",
+                    "奢华",
+                    "优雅",
+                    "一般",
+                    "高贵",
+                    "简洁",
+                    "舒服",
+                    "最好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.220574,
+                    30.599581
+                ]
+            },
+            "properties": {
+                "name": "刘胖子家常菜(金色古田店)",
+                "address": "韩家墩街道古田四路12号(古田帝园旁)",
+                "tag": "美食;中餐厅",
+                "price": "66.0",
+                "overall_rating": "4.4",
+                "comment_num": "95",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "嘈杂",
+                    "一般",
+                    "很好",
+                    "火爆",
+                    "方便",
+                    "很足",
+                    "微辣",
+                    "蛮好",
+                    "鲜嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.278316,
+                    30.60658
+                ]
+            },
+            "properties": {
+                "name": "胖锅轩(北湖店)",
+                "address": "北湖正街与新华路交叉口南100米路东",
+                "tag": "美食;中餐厅",
+                "price": "90.0",
+                "overall_rating": "4.3",
+                "comment_num": "51",
+                "label": "火锅店",
+                "keywords": [
+                    "不错",
+                    "脆皮",
+                    "火爆",
+                    "挺好吃",
+                    "不辣",
+                    "吃辣",
+                    "很鲜",
+                    "偏贵",
+                    "挺贵",
+                    "容易"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.434312,
+                    30.512255
+                ]
+            },
+            "properties": {
+                "name": "东鑫酒店(光谷店)",
+                "address": "珞喻东路197号",
+                "tag": "美食;中餐厅",
+                "price": "121.0",
+                "overall_rating": "4.4",
+                "comment_num": "23",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "不腻",
+                    "蛮久",
+                    "完全",
+                    "一般",
+                    "精致",
+                    "方便",
+                    "较大"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.262327,
+                    30.58435
+                ]
+            },
+            "properties": {
+                "name": "艳阳天旺角酒店(解放大道店)",
+                "address": "湖北省武汉市硚口区宝丰街道解放大道1049号",
+                "tag": "美食;中餐厅",
+                "price": "149.0",
+                "overall_rating": "4.2",
+                "comment_num": "199",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "一般",
+                    "很大",
+                    "难吃",
+                    "很嫩",
+                    "挺好吃",
+                    "精致",
+                    "不腻",
+                    "丰富"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.325647,
+                    30.662978
+                ]
+            },
+            "properties": {
+                "name": "三五酒店(百步亭店)",
+                "address": "安居路176号",
+                "tag": "美食;中餐厅",
+                "price": "85.0",
+                "overall_rating": "4.0",
+                "comment_num": "114",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "方便",
+                    "很足",
+                    "很嫩",
+                    "蛮好",
+                    "酥脆",
+                    "惊艳",
+                    "很大",
+                    "不贵"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.296709,
+                    30.614927
+                ]
+            },
+            "properties": {
+                "name": "口味堂(惠济路店)",
+                "address": "劳动街道惠济路25号(解放公园路口)",
+                "tag": "美食;中餐厅",
+                "price": "141.0",
+                "overall_rating": "4.8",
+                "comment_num": "32",
+                "label": "湘菜",
+                "keywords": [
+                    "鲜嫩",
+                    "不贵",
+                    "不错",
+                    "精致",
+                    "吃辣",
+                    "超贵",
+                    "宽敞",
+                    "昂贵",
+                    "很好",
+                    "独特"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.295001,
+                    30.590024
+                ]
+            },
+            "properties": {
+                "name": "满堂红串串香(铭新街总店)",
+                "address": "大智街道铭新街13号(铭新街小学对面)",
+                "tag": "美食;中餐厅",
+                "price": "83.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "串串香店",
+                "keywords": [
+                    "不错",
+                    "便宜",
+                    "一般",
+                    "最爱",
+                    "不辣",
+                    "很嫩",
+                    "吃辣",
+                    "卫生",
+                    "丰富",
+                    "干净"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.379162,
+                    30.629305
+                ]
+            },
+            "properties": {
+                "name": "秦风家宴(青山店)",
+                "address": "湖北省武汉市青山区和平大道1246号附11号",
+                "tag": "美食;中餐厅",
+                "price": "69.0",
+                "overall_rating": "4.3",
+                "comment_num": "38",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "很足",
+                    "干净",
+                    "整洁",
+                    "挺大",
+                    "重新",
+                    "挺好",
+                    "浓郁",
+                    "精致",
+                    "舒适"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.330646,
+                    30.656883
+                ]
+            },
+            "properties": {
+                "name": "刘胖子家常菜(兴业店)",
+                "address": "兴业路199号附1秀泽园北区26栋",
+                "tag": "美食;中餐厅",
+                "price": "63.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "火爆",
+                    "很嫩",
+                    "鲜嫩",
+                    "很足",
+                    "便宜",
+                    "一般",
+                    "不腻",
+                    "不贵",
+                    "方便"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.250932,
+                    30.611722
+                ]
+            },
+            "properties": {
+                "name": "复兴村双龙油焖大虾(振兴路店)",
+                "address": "湖北省武汉市江汉区常文里41号",
+                "tag": "美食;中餐厅",
+                "price": "110.0",
+                "overall_rating": "4.1",
+                "comment_num": "32",
+                "label": "小龙虾店",
+                "keywords": [
+                    "不错",
+                    "团建",
+                    "酸甜",
+                    "稀烂",
+                    "鲜嫩",
+                    "鲜美",
+                    "宽敞",
+                    "卫生",
+                    "火爆",
+                    "独特"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.340198,
+                    30.486588
+                ]
+            },
+            "properties": {
+                "name": "老村长私募菜(南湖店)",
+                "address": "新南湖芷岸龙庭广宏汇C1-2-1(南湖大道花木城)",
+                "tag": "美食;中餐厅",
+                "price": "50.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.299107,
+                    30.596341
+                ]
+            },
+            "properties": {
+                "name": "食尚坊(京汉大道店)",
+                "address": "京汉大道881号盈安公寓2栋1层1室",
+                "tag": "美食;中餐厅",
+                "price": "104.0",
+                "overall_rating": "4.7",
+                "comment_num": "41",
+                "label": "鄂菜",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.308671,
+                    30.606207
+                ]
+            },
+            "properties": {
+                "name": "荔晶时代湖北融合菜(麟趾路店)",
+                "address": "京汉大道与麟趾路交叉口轻轨三阳站c1出口(轨道一号线三阳路站旁)",
+                "tag": "美食;中餐厅",
+                "price": "108.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "很嫩",
+                    "方便",
+                    "一般",
+                    "精致",
+                    "鲜嫩",
+                    "惊艳",
+                    "优雅",
+                    "很大",
+                    "很棒"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.212008,
+                    30.629685
+                ]
+            },
+            "properties": {
+                "name": "雅和睿景花园酒店(园博园店)",
+                "address": "古田二路园博园南路9号(蓝焰物流对面)",
+                "tag": "美食;中餐厅",
+                "price": "820.0",
+                "overall_rating": "4.2",
+                "comment_num": "22",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "不辣",
+                    "很足",
+                    "很棒",
+                    "挺好",
+                    "不贵",
+                    "优雅",
+                    "便宜",
+                    "根本"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.367764,
+                    30.584486
+                ]
+            },
+            "properties": {
+                "name": "北京东来顺(岳家嘴店)",
+                "address": "武汉大道东湖国贸中心内",
+                "tag": "美食;中餐厅",
+                "price": "122.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "火锅店",
+                "keywords": [
+                    "不错",
+                    "清淡",
+                    "很足",
+                    "不辣",
+                    "挺好吃",
+                    "干净",
+                    "鲜美",
+                    "很大",
+                    "肥瘦",
+                    "鲜嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403623,
+                    30.633759
+                ]
+            },
+            "properties": {
+                "name": "丽华园(青山工业二路店)",
+                "address": "湖北省武汉市青山区工业二路17号",
+                "tag": "美食;中餐厅",
+                "price": "98.0",
+                "overall_rating": "4.4",
+                "comment_num": "61",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "精致",
+                    "宽畅",
+                    "不贵",
+                    "长满",
+                    "干净",
+                    "有名",
+                    "方便"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.29841,
+                    30.610187
+                ]
+            },
+            "properties": {
+                "name": "袁大头包子(解放公园店)",
+                "address": "光华路6号",
+                "tag": "美食;小吃快餐店",
+                "price": "14.0",
+                "overall_rating": "4.4",
+                "comment_num": "38",
+                "label": "包子店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "蛮快",
+                    "不腻",
+                    "惊艳",
+                    "厚实",
+                    "鲜美",
+                    "最爱",
+                    "便利",
+                    "广阔"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.322041,
+                    30.658601
+                ]
+            },
+            "properties": {
+                "name": "海底捞(季佳荟店)",
+                "address": "湖北省武汉市江岸区后湖大道季佳荟2层(百步亭花园路地铁站A口西南侧约125米)",
+                "tag": "美食;中餐厅",
+                "price": "90.0",
+                "overall_rating": "4.7",
+                "comment_num": "122",
+                "label": "火锅店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "干净",
+                    "尴尬",
+                    "最好",
+                    "确实",
+                    "直接",
+                    "舒服",
+                    "完全",
+                    "脆脆"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.335451,
+                    30.662509
+                ]
+            },
+            "properties": {
+                "name": "食家酒庄·宴会厅(后湖店)",
+                "address": "湖北省武汉市江岸区后湖大道新荣苑沿街商铺360号",
+                "tag": "美食;中餐厅",
+                "price": "84.0",
+                "overall_rating": "4.0",
+                "comment_num": "20",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "很足",
+                    "不贵",
+                    "鲜美",
+                    "糟糕",
+                    "真诚",
+                    "很好",
+                    "干净",
+                    "丰富",
+                    "很大"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310592,
+                    30.604756
+                ]
+            },
+            "properties": {
+                "name": "谢先生酒店(外滩店)",
+                "address": "湖北省武汉市江岸区中山大道1541号",
+                "tag": "美食;中餐厅",
+                "price": "100.0",
+                "overall_rating": "4.7",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "很足",
+                    "很大",
+                    "很嫩",
+                    "一般",
+                    "很棒",
+                    "干净",
+                    "惊艳",
+                    "鲜嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402077,
+                    30.512037
+                ]
+            },
+            "properties": {
+                "name": "京滏山自助烤肉料理(中商世界里店)",
+                "address": "湖北省武汉市洪山区珞喻路726号中商世界里·鲁巷广场购物中心F6",
+                "tag": "美食;其他",
+                "price": "49.0",
+                "overall_rating": "4.3",
+                "comment_num": "71",
+                "label": "烤肉自助",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很好",
+                    "难吃",
+                    "火爆",
+                    "方便",
+                    "丰富",
+                    "便宜",
+                    "挺好吃",
+                    "很爽"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297817,
+                    30.58432
+                ]
+            },
+            "properties": {
+                "name": "傣妹火锅(新佳丽时尚广场店)",
+                "address": "湖北省武汉市江汉区中山大道818号新佳丽时尚广场F4",
+                "tag": "美食;中餐厅",
+                "price": "77.0",
+                "overall_rating": "4.7",
+                "comment_num": "200",
+                "label": "火锅店",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "便宜",
+                    "卫生",
+                    "不贵",
+                    "麻烦",
+                    "方便",
+                    "整洁",
+                    "嘈杂",
+                    "很好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.324213,
+                    30.543621
+                ]
+            },
+            "properties": {
+                "name": "蔡林记热干面馆(千家街店)",
+                "address": "首义路街道中山路456号(千家街人行天桥下)",
+                "tag": "美食;小吃快餐店",
+                "price": "14.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "面馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "干净",
+                    "方便",
+                    "不贵",
+                    "便宜",
+                    "浓郁",
+                    "害羞",
+                    "很嫩",
+                    "很足"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.23684,
+                    30.5628
+                ]
+            },
+            "properties": {
+                "name": "乐福园酒楼(七里庙店)",
+                "address": "汉阳大道491号七里庙朝阳星苑门面",
+                "tag": "美食;中餐厅",
+                "price": "74.0",
+                "overall_rating": "4.2",
+                "comment_num": "40",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "挺好吃",
+                    "一般",
+                    "方便",
+                    "很足",
+                    "很大",
+                    "便利",
+                    "便宜",
+                    "直接"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.270967,
+                    30.602243
+                ]
+            },
+            "properties": {
+                "name": "大渔铁板烧(花园道店)",
+                "address": "西北湖路特1号花园道A区1层A112",
+                "tag": "美食;中餐厅",
+                "price": "219.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "自助餐",
+                "keywords": [
+                    "不错",
+                    "很嫩",
+                    "最爱",
+                    "鲜嫩",
+                    "一般",
+                    "很棒",
+                    "很大",
+                    "丰富",
+                    "最好",
+                    "厚切"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.298458,
+                    30.588837
+                ]
+            },
+            "properties": {
+                "name": "518玉龙香辣虾(南京路店)",
+                "address": "南京路61号",
+                "tag": "美食;中餐厅",
+                "price": "76.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "小龙虾店",
+                "keywords": [
+                    "不错",
+                    "脆皮",
+                    "微辣",
+                    "干净",
+                    "一般",
+                    "很足",
+                    "很大",
+                    "确实",
+                    "舒服",
+                    "很嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.271729,
+                    30.611692
+                ]
+            },
+            "properties": {
+                "name": "余艳梅拌面世家",
+                "address": "湖北省武汉市江汉区马场角横路79号西区",
+                "tag": "美食;小吃快餐店",
+                "price": "22.0",
+                "overall_rating": "4.4",
+                "comment_num": "86",
+                "label": "面馆",
+                "keywords": [
+                    "不错",
+                    "很足",
+                    "酥脆",
+                    "一般",
+                    "确实",
+                    "很辣",
+                    "不辣",
+                    "难吃",
+                    "完美",
+                    "尴尬"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.363329,
+                    30.539414
+                ]
+            },
+            "properties": {
+                "name": "桃花醉小酒馆(武大店)",
+                "address": "湖北省武汉市洪山区珞珈山路19号",
+                "tag": "美食;中餐厅",
+                "price": "81.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很棒",
+                    "很嫩",
+                    "很足",
+                    "挺好吃",
+                    "清淡",
+                    "酥脆",
+                    "私密",
+                    "精致"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.286252,
+                    30.670749
+                ]
+            },
+            "properties": {
+                "name": "和记鲶鱼(极地海洋世界店)",
+                "address": "宏图大道极地海洋世界(麦当劳旁)",
+                "tag": "美食;中餐厅",
+                "price": "60.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "海鲜店",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.304854,
+                    30.559627
+                ]
+            },
+            "properties": {
+                "name": "红鼎豆捞(江滩店)",
+                "address": "中华路街道临江大道58-8号(近中华路码头)",
+                "tag": "美食;中餐厅",
+                "price": "203.0",
+                "overall_rating": "4.6",
+                "comment_num": "200",
+                "label": "豆捞店",
+                "keywords": [
+                    "不错",
+                    "鲜美",
+                    "干净",
+                    "最爱",
+                    "很棒",
+                    "优雅",
+                    "方便",
+                    "卫生",
+                    "很嫩",
+                    "清淡"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310686,
+                    30.525717
+                ]
+            },
+            "properties": {
+                "name": "小民大排档(白沙洲店)",
+                "address": "白沙洲大道武泰闸特1号万隆广场对面",
+                "tag": "美食;其他",
+                "price": "85.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "鄂菜",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很嫩",
+                    "嘈杂",
+                    "挺好吃",
+                    "惊艳",
+                    "很足",
+                    "脆脆",
+                    "很烂",
+                    "干净"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.273735,
+                    30.579093
+                ]
+            },
+            "properties": {
+                "name": "妈妈菜馆(武胜西街店)",
+                "address": "武胜西街63号荣西社区",
+                "tag": "美食;中餐厅",
+                "price": "82.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "很足",
+                    "一般",
+                    "很嫩",
+                    "嘈杂",
+                    "很好",
+                    "干净",
+                    "直接",
+                    "挺好吃",
+                    "整洁"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306741,
+                    30.594967
+                ]
+            },
+            "properties": {
+                "name": "山丘私房烤肉(胜利街店)",
+                "address": "胜利街154号二楼",
+                "tag": "美食;中餐厅",
+                "price": "219.0",
+                "overall_rating": "4.6",
+                "comment_num": "200",
+                "label": "私房菜",
+                "keywords": [
+                    "不错",
+                    "鲜嫩",
+                    "厚切",
+                    "很棒",
+                    "一般",
+                    "不腻",
+                    "精致",
+                    "很大",
+                    "完全",
+                    "很嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256314,
+                    30.581767
+                ]
+            },
+            "properties": {
+                "name": "艳阳天·婚礼艺术中心(宝丰店)",
+                "address": "湖北省武汉市硚口区解放大道550号",
+                "tag": "美食;中餐厅",
+                "price": "61.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "宴会厅",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "一般",
+                    "很足",
+                    "很嫩",
+                    "很烂",
+                    "很大",
+                    "很棒",
+                    "鲜嫩",
+                    "挺好吃"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.302438,
+                    30.593086
+                ]
+            },
+            "properties": {
+                "name": "五芳斋(中山大道店)",
+                "address": "中山大道1205号",
+                "tag": "美食;小吃快餐店",
+                "price": "19.0",
+                "overall_rating": "4.0",
+                "comment_num": "37",
+                "label": "中式快餐",
+                "keywords": [
+                    "不错",
+                    "一大",
+                    "方便",
+                    "吃糊",
+                    "连糊",
+                    "细滑",
+                    "不贵",
+                    "软软",
+                    "详见",
+                    "简陋"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.291396,
+                    30.589248
+                ]
+            },
+            "properties": {
+                "name": "汉和京都日本料理(循礼门店)",
+                "address": "武汉市江汉区京汉大道武汉M+购物中心西侧",
+                "tag": "美食;中餐厅",
+                "price": "181.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "日本料理",
+                "keywords": [
+                    "不错",
+                    "厚切",
+                    "很嫩",
+                    "一般",
+                    "很足",
+                    "惊艳",
+                    "很大",
+                    "方便",
+                    "最爱",
+                    "完全"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.303815,
+                    30.593386
+                ]
+            },
+            "properties": {
+                "name": "王记生烫牛杂面馆(兰陵路店)",
+                "address": "兰陵路90号",
+                "tag": "美食;小吃快餐店",
+                "price": "19.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "粉面馆",
+                "keywords": [
+                    "牛杂",
+                    "不错",
+                    "很嫩",
+                    "微辣",
+                    "一般",
+                    "很足",
+                    "吃辣",
+                    "烫熟",
+                    "惊艳",
+                    "确实"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.210414,
+                    30.573245
+                ]
+            },
+            "properties": {
+                "name": "罗氏热干牛肉面馆(玫瑰街总店)",
+                "address": "玫瑰街279号",
+                "tag": "美食;小吃快餐店",
+                "price": "15.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "小吃",
+                "keywords": [
+                    "很嫩",
+                    "不错",
+                    "一般",
+                    "很足",
+                    "确实",
+                    "惊艳",
+                    "微辣",
+                    "蛮嫩",
+                    "良心",
+                    "脆脆"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.292915,
+                    30.601383
+                ]
+            },
+            "properties": {
+                "name": "王师傅豆皮馆(高雄路店)",
+                "address": "西马街道高雄路47号(高雄路与台北一路交叉口)",
+                "tag": "美食;小吃快餐店",
+                "price": "18.0",
+                "overall_rating": "4.0",
+                "comment_num": "54",
+                "label": "小吃",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很足",
+                    "纯纯",
+                    "蛮贵",
+                    "难吃",
+                    "惊艳",
+                    "很大",
+                    "完全",
+                    "最差"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.179859,
+                    30.511774
+                ]
+            },
+            "properties": {
+                "name": "鱼酷烤全鱼(万达广场店)",
+                "address": "湖北省武汉市经济技术开发区东风大道111号万达广场F3",
+                "tag": "美食;中餐厅",
+                "price": "75.0",
+                "overall_rating": "4.7",
+                "comment_num": "200",
+                "label": "烤鱼",
+                "keywords": [
+                    "不错",
+                    "吃辣",
+                    "酸甜",
+                    "很棒",
+                    "不辣",
+                    "一般",
+                    "热辣",
+                    "很嫩",
+                    "挺好吃",
+                    "干净"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.355836,
+                    30.54923
+                ]
+            },
+            "properties": {
+                "name": "粗茶淡饭茶港食堂(武昌店)",
+                "address": "水果湖东四路8号",
+                "tag": "美食;其他",
+                "price": "99.0",
+                "overall_rating": "4.5",
+                "comment_num": "200",
+                "label": "食堂",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "干净",
+                    "清淡",
+                    "卫生",
+                    "便宜",
+                    "清爽",
+                    "浓稠",
+                    "很足",
+                    "浓郁"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.250155,
+                    30.612516
+                ]
+            },
+            "properties": {
+                "name": "李刚复兴村牛排(振兴路总店)",
+                "address": "振兴路39号",
+                "tag": "美食;外国餐厅",
+                "price": "47.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "牛排",
+                "keywords": [
+                    "不错",
+                    "复兴",
+                    "很嫩",
+                    "一般",
+                    "很足",
+                    "惊艳",
+                    "便宜",
+                    "不贵",
+                    "很棒",
+                    "鲜嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.349595,
+                    30.561891
+                ]
+            },
+            "properties": {
+                "name": "苏梅花园(汉街hi thai店)",
+                "address": "湖北省武汉市武昌区楚河汉街1号武汉中央文化旅游区楚河汉街一层",
+                "tag": "美食;外国餐厅",
+                "price": "99.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "东南亚菜",
+                "keywords": [
+                    "不错",
+                    "浓郁",
+                    "很足",
+                    "清爽",
+                    "很棒",
+                    "很嫩",
+                    "很大",
+                    "酸甜",
+                    "一般",
+                    "脆脆"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409477,
+                    30.511318
+                ]
+            },
+            "properties": {
+                "name": "秀玉红茶坊(武昌光谷店)",
+                "address": "关山街道珞喻路光谷世界城步行街D区5楼（光谷广场内）",
+                "tag": "美食;外国餐厅",
+                "price": "80.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "茶餐厅",
+                "keywords": [
+                    "不错",
+                    "很足",
+                    "一般",
+                    "很棒",
+                    "舒服",
+                    "嘈杂",
+                    "很嫩",
+                    "很大",
+                    "优雅",
+                    "方便"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.199981,
+                    31.255617
+                ]
+            },
+            "properties": {
+                "name": "姚家山姚记老屋菜馆",
+                "address": "蔡店街姚家山村新四军纪念馆旁",
+                "tag": "美食;中餐厅",
+                "price": "53.0",
+                "overall_rating": "3.6",
+                "comment_num": "10",
+                "label": "农家菜",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.274249,
+                    30.574493
+                ]
+            },
+            "properties": {
+                "name": "秀玉红茶坊(凯德广场武胜店)",
+                "address": "湖北省武汉市硚口区中山大道238号凯德广场B1",
+                "tag": "美食;中餐厅",
+                "price": "65.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "茶餐厅",
+                "keywords": [
+                    "不错",
+                    "很足",
+                    "太慢",
+                    "难吃",
+                    "便宜",
+                    "一般",
+                    "很棒",
+                    "挺好",
+                    "嘈杂",
+                    "舒服"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.295113,
+                    30.588249
+                ]
+            },
+            "properties": {
+                "name": "涂记油酥饼(江汉三路店)",
+                "address": "湖北省武汉市江汉区江汉三路52号",
+                "tag": "美食;蛋糕甜品店",
+                "price": "7.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "小吃",
+                "keywords": [
+                    "酥脆",
+                    "不错",
+                    "一般",
+                    "很足",
+                    "牛杂",
+                    "不腻",
+                    "吃涂",
+                    "正好",
+                    "惊艳",
+                    "确实"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.242515,
+                    30.633217
+                ]
+            },
+            "properties": {
+                "name": "万科君澜臻选自助餐厅",
+                "address": "湖北省武汉市江汉区常青路177号君澜大酒店1楼近南航大楼机场高速三环入口",
+                "tag": "美食;中餐厅",
+                "price": "148.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "茶餐厅",
+                "keywords": [
+                    "不错",
+                    "丰富",
+                    "方便",
+                    "一般",
+                    "确实",
+                    "很棒",
+                    "很嫩",
+                    "不腻",
+                    "干净",
+                    "精致"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.308228,
+                    30.605568
+                ]
+            },
+            "properties": {
+                "name": "胡桃里(三阳路店)",
+                "address": "四唯街道京汉大道1208号新长江国际裙楼1层8室",
+                "tag": "美食;酒吧",
+                "price": "135.0",
+                "overall_rating": "4.3",
+                "comment_num": "30",
+                "label": "酒吧",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.36018,
+                    30.53218
+                ]
+            },
+            "properties": {
+                "name": "小川料理(街道口店)",
+                "address": "珞喻路流行视窗购物广场二楼手扶电梯旁(街道口地铁站B出口背面20米，群光广场旁)",
+                "tag": "美食;外国餐厅",
+                "price": "86.0",
+                "overall_rating": "4.8",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.27689,
+                    30.598748
+                ]
+            },
+            "properties": {
+                "name": "爱那不勒斯比萨店(万松园店)",
+                "address": "雪松路90号",
+                "tag": "美食;外国餐厅",
+                "price": "71.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "披萨店",
+                "keywords": [
+                    "不错",
+                    "很足",
+                    "一般",
+                    "很棒",
+                    "浓郁",
+                    "惊艳",
+                    "不腻",
+                    "脆脆",
+                    "正好",
+                    "肥瘦"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402204,
+                    30.600642
+                ]
+            },
+            "properties": {
+                "name": "必胜客(欢乐谷店)",
+                "address": "欢乐大道196号华侨城欢乐广场商业街",
+                "tag": "美食;外国餐厅",
+                "price": "87.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "披萨店",
+                "keywords": [
+                    "不错",
+                    "干净",
+                    "很棒",
+                    "最爱",
+                    "直接",
+                    "憨笑",
+                    "薄脆",
+                    "方便",
+                    "正好",
+                    "欢乐"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.346363,
+                    30.559208
+                ]
+            },
+            "properties": {
+                "name": "争鲜回转寿司(凯德1818店)",
+                "address": "湖北省武汉市武昌区中北路109号凯德1818F4",
+                "tag": "美食;外国餐厅",
+                "price": "61.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "寿司",
+                "keywords": [
+                    "不错",
+                    "便宜",
+                    "一般",
+                    "争鲜",
+                    "方便",
+                    "挺好吃",
+                    "直接",
+                    "干净",
+                    "不贵",
+                    "丰富"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.276362,
+                    30.601121
+                ]
+            },
+            "properties": {
+                "name": "小仓匠心和食(国贸店)",
+                "address": "武汉市江汉区建设大道566号新世界百货F4",
+                "tag": "美食;外国餐厅",
+                "price": "166.0",
+                "overall_rating": "4.6",
+                "comment_num": "200",
+                "label": "日本料理",
+                "keywords": [
+                    "不错",
+                    "厚切",
+                    "精致",
+                    "很棒",
+                    "惊艳",
+                    "不腻",
+                    "干净",
+                    "丰富",
+                    "一般",
+                    "舒服"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.27152,
+                    30.602223
+                ]
+            },
+            "properties": {
+                "name": "Noi诺意意大利餐厅(花园道店)",
+                "address": "青年路308号花园道1层A109室(超级猩猩健身房对面)",
+                "tag": "美食;外国餐厅",
+                "price": "171.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "西餐厅",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "很棒",
+                    "难吃",
+                    "蛮好",
+                    "浓郁",
+                    "惊艳",
+                    "酥脆",
+                    "很足",
+                    "舒服"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.361658,
+                    30.531316
+                ]
+            },
+            "properties": {
+                "name": "仓桥家(群光广场店)",
+                "address": "珞喻路6号群光广场8层（近珞狮路）",
+                "tag": "美食;外国餐厅",
+                "price": "87.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "日本料理",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.293049,
+                    30.608806
+                ]
+            },
+            "properties": {
+                "name": "永和大王(香港路店)",
+                "address": "香港路173-175号一层3号商铺",
+                "tag": "美食;小吃快餐店",
+                "price": "20.0",
+                "overall_rating": "4.1",
+                "comment_num": "200",
+                "label": "中式快餐",
+                "keywords": [
+                    "不错",
+                    "干净",
+                    "卫生",
+                    "一般",
+                    "难吃",
+                    "酥脆",
+                    "很足",
+                    "清淡",
+                    "丰富",
+                    "很嫩"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.37634,
+                    30.519612
+                ]
+            },
+            "properties": {
+                "name": "匆匆那年时光主题餐厅(虎泉店)",
+                "address": "武汉市洪山区虎泉街91号虎泉时尚中心(地铁2号线虎泉D出口)二楼",
+                "tag": "美食",
+                "price": "56.0",
+                "overall_rating": "4.1",
+                "comment_num": "200",
+                "label": "中餐馆",
+                "keywords": [
+                    "不错",
+                    "确实",
+                    "便宜",
+                    "一般",
+                    "很足",
+                    "吃辣",
+                    "很棒",
+                    "精致",
+                    "方便",
+                    "很好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297374,
+                    30.584311
+                ]
+            },
+            "properties": {
+                "name": "秀玉红茶坊(新佳丽时尚广场店)",
+                "address": "湖北省武汉市江汉区中山大道818号新佳丽时尚广场F3",
+                "tag": "美食",
+                "price": "76.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "茶餐厅",
+                "keywords": [
+                    "不错",
+                    "难吃",
+                    "很足",
+                    "一般",
+                    "很嫩",
+                    "挺好吃",
+                    "干净",
+                    "惊艳",
+                    "最爱",
+                    "很大"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.363338,
+                    30.532544
+                ]
+            },
+            "properties": {
+                "name": "粥堂里(银泰创意城店)",
+                "address": "湖北省武汉市洪山区珞瑜路35号(街道口群光广场对面)银泰创意城F9",
+                "tag": "美食;小吃快餐店",
+                "price": "63.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "粥店",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.28063,
+                    30.544968
+                ]
+            },
+            "properties": {
+                "name": "武汉世茂希尔顿酒店·汇·全日餐厅",
+                "address": "滨江大道190号武汉世茂希尔顿酒店三楼",
+                "tag": "美食;外国餐厅",
+                "price": "169.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "自助餐",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "丰富",
+                    "确实",
+                    "很棒",
+                    "精致",
+                    "干净",
+                    "难吃",
+                    "完全",
+                    "直接"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.362247,
+                    30.531596
+                ]
+            },
+            "properties": {
+                "name": "星巴克(群光广场珞喻路店)",
+                "address": "珞瑜路6号群光广场一楼",
+                "tag": "美食;咖啡厅",
+                "price": "36.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "浓郁",
+                    "舒服",
+                    "很棒",
+                    "一般",
+                    "挺大",
+                    "最爱",
+                    "很大",
+                    "不腻",
+                    "正好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.412055,
+                    30.511965
+                ]
+            },
+            "properties": {
+                "name": "dq(光谷世界城店)",
+                "address": "武汉市洪山区珞喻路766号世界城广场B1",
+                "tag": "美食;蛋糕甜品店",
+                "price": "24.0",
+                "overall_rating": "4.5",
+                "comment_num": "200",
+                "label": "冰淇淋",
+                "keywords": [
+                    "不错",
+                    "浓郁",
+                    "很足",
+                    "不腻",
+                    "脆皮",
+                    "最爱",
+                    "一般",
+                    "积分",
+                    "细腻",
+                    "甜腻"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408991,
+                    30.510607
+                ]
+            },
+            "properties": {
+                "name": "项姐烤猪蹄(火星美食街店)",
+                "address": "世界城光谷步行街3楼澳门街美食城B016号",
+                "tag": "美食;小吃快餐店",
+                "price": "12.0",
+                "overall_rating": "4.1",
+                "comment_num": "200",
+                "label": "小吃",
+                "keywords": [
+                    "不错",
+                    "不腻",
+                    "焦脆",
+                    "脆脆",
+                    "便宜",
+                    "必吃",
+                    "挺好吃",
+                    "干净",
+                    "软软",
+                    "一般"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.293657,
+                    30.588992
+                ]
+            },
+            "properties": {
+                "name": "星巴克(武汉M+购物中心店)",
+                "address": "武汉市江汉区江汉路187号武汉M+购物中心F1",
+                "tag": "美食;咖啡厅",
+                "price": "34.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "浓郁",
+                    "一般",
+                    "很大",
+                    "方便",
+                    "最爱",
+                    "舒服",
+                    "不腻",
+                    "蛮大",
+                    "愉快"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.314661,
+                    30.558091
+                ]
+            },
+            "properties": {
+                "name": "大水的店(昙华林店)",
+                "address": "昙华林路昙华林56号",
+                "tag": "美食;咖啡厅",
+                "price": "37.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "惬意",
+                    "清新",
+                    "一般",
+                    "很棒",
+                    "舒服",
+                    "确实",
+                    "有名",
+                    "浓郁",
+                    "不同"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.336934,
+                    30.545207
+                ]
+            },
+            "properties": {
+                "name": "伊塔恋意式窑烤披萨餐厅",
+                "address": "湖北省武汉市武昌区中南路街道中南路街中南一路26号1单元1层2室",
+                "tag": "美食;小吃快餐店",
+                "price": "109.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "披萨店",
+                "keywords": [
+                    "不错",
+                    "很小",
+                    "干净",
+                    "不腻",
+                    "很足",
+                    "一般",
+                    "便宜",
+                    "精致",
+                    "舒服",
+                    "很薄"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306198,
+                    30.593289
+                ]
+            },
+            "properties": {
+                "name": "魔界咖啡(黎黄陂路店)",
+                "address": "黎黄陂路26号",
+                "tag": "美食;咖啡厅",
+                "price": "39.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "咖啡厅",
+                "keywords": [
+                    "不错",
+                    "舒服",
+                    "惬意",
+                    "一般",
+                    "慵懒",
+                    "很小",
+                    "很棒",
+                    "浓郁",
+                    "清新",
+                    "完全"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.320588,
+                    30.623393
+                ]
+            },
+            "properties": {
+                "name": "积慕Cake(解放大道店)",
+                "address": "解放大道头道街轻轨站1楼",
+                "tag": "美食;蛋糕甜品店",
+                "price": "214.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "蛋糕店",
+                "keywords": [
+                    "不腻",
+                    "不错",
+                    "细腻",
+                    "精致",
+                    "甜腻",
+                    "方便",
+                    "清新",
+                    "最爱",
+                    "很棒",
+                    "简单"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.166713,
+                    30.513365
+                ]
+            },
+            "properties": {
+                "name": "仟吉西饼(沌口店)",
+                "address": "泰合百花公园翠苑4栋(汉阳沌口三角湖路)",
+                "tag": "美食;蛋糕甜品店",
+                "price": "26.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "蛋糕店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "一般",
+                    "便宜",
+                    "很甜",
+                    "不腻",
+                    "挺好吃",
+                    "甜腻",
+                    "脆脆",
+                    "偏贵"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.304826,
+                    30.601712
+                ]
+            },
+            "properties": {
+                "name": "仟吉西饼(融科天城店)",
+                "address": "解放南路168号融科天城52-53号商铺(京汉大道中南剧场旁)",
+                "tag": "美食;蛋糕甜品店",
+                "price": "26.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "蛋糕店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "不腻",
+                    "挺好吃",
+                    "很足",
+                    "干净",
+                    "浓郁",
+                    "很腻",
+                    "腻腻",
+                    "干硬"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.174551,
+                    30.622699
+                ]
+            },
+            "properties": {
+                "name": "福田家日式料理(武汉荟聚店)",
+                "address": "易家街道园博大道1号武汉荟聚中心3层(近汉堡王)",
+                "tag": "美食;外国餐厅",
+                "price": "70.0",
+                "overall_rating": "4.0",
+                "comment_num": "200",
+                "label": "日本料理",
+                "keywords": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.311238,
+                    30.5413
+                ]
+            },
+            "properties": {
+                "name": "仟吉西饼(首义汇店)",
+                "address": "张之洞路151号泛悦汇·KA街1层(四号线首义路E出口,锦江之星东行30米)",
+                "tag": "美食;蛋糕甜品店",
+                "price": "25.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "蛋糕店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "一般",
+                    "便宜",
+                    "干净",
+                    "漂亮",
+                    "挺好吃",
+                    "挺好",
+                    "很甜",
+                    "整洁"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.252484,
+                    30.632773
+                ]
+            },
+            "properties": {
+                "name": "仟吉西饼(地铁长港路站店)",
+                "address": "轨道交通2号线一期长港路站CGL02号商铺",
+                "tag": "美食;蛋糕甜品店",
+                "price": "25.0",
+                "overall_rating": "4.4",
+                "comment_num": "200",
+                "label": "蛋糕店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "不腻",
+                    "整洁",
+                    "干净",
+                    "便利",
+                    "松软",
+                    "正好",
+                    "一般",
+                    "直接"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3371,
+                    30.501897
+                ]
+            },
+            "properties": {
+                "name": "皇冠幸福里(南湖大华店)",
+                "address": "武梁路大华-南湖公园世家二期S6号商铺",
+                "tag": "美食;蛋糕甜品店",
+                "price": "19.0",
+                "overall_rating": "4.2",
+                "comment_num": "200",
+                "label": "糕点店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "便宜",
+                    "最爱",
+                    "積分",
+                    "甜甜",
+                    "不腻",
+                    "漂亮",
+                    "干净",
+                    "挺好吃"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409852,
+                    30.643432
+                ]
+            },
+            "properties": {
+                "name": "仟吉西饼(沿港路店)",
+                "address": "沿港路10附2号",
+                "tag": "美食;蛋糕甜品店",
+                "price": "61.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "蛋糕店",
+                "keywords": [
+                    "不错",
+                    "干净",
+                    "整洁",
+                    "方便",
+                    "便宜",
+                    "最爱",
+                    "卫生",
+                    "松软",
+                    "正好",
+                    "一般"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.279776,
+                    30.587595
+                ]
+            },
+            "properties": {
+                "name": "广隆蛋挞王(sogo店)",
+                "address": "湖北省武汉市江汉区解放大道696号汉商武展购物中心B1",
+                "tag": "美食;蛋糕甜品店",
+                "price": "18.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "西点店",
+                "keywords": [
+                    "不错",
+                    "很软",
+                    "软软",
+                    "便宜",
+                    "一般",
+                    "方便",
+                    "很小",
+                    "挺好吃",
+                    "蛮好",
+                    "很滑"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409309,
+                    30.510522
+                ]
+            },
+            "properties": {
+                "name": "广隆蛋挞王(光谷星光大道店)",
+                "address": "湖北省武汉市洪山区珞瑜路726号世界城光谷步行街F1",
+                "tag": "美食;蛋糕甜品店",
+                "price": "12.0",
+                "overall_rating": "4.0",
+                "comment_num": "200",
+                "label": "西点店",
+                "keywords": [
+                    "不错",
+                    "便宜",
+                    "挺好吃",
+                    "一般",
+                    "很棒",
+                    "酥脆",
+                    "挺好",
+                    "直接",
+                    "耐心",
+                    "很好"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.30465,
+                    30.592695
+                ]
+            },
+            "properties": {
+                "name": "仟吉西饼(兰陵路店)",
+                "address": "兰陵路64号1-2层1楼（兰陵路与胜利街交汇处）",
+                "tag": "美食;蛋糕甜品店",
+                "price": "32.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "蛋糕店",
+                "keywords": [
+                    "不错",
+                    "方便",
+                    "一般",
+                    "干净",
+                    "很棒",
+                    "便宜",
+                    "很酸",
+                    "最爱",
+                    "正好",
+                    "不腻"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.261933,
+                    30.608365
+                ]
+            },
+            "properties": {
+                "name": "喜来登大酒店-盛宴标帜自助餐厅",
+                "address": "范湖路80号武汉汉口喜来登大酒店2楼(范湖万达广场旁)",
+                "tag": "美食;外国餐厅",
+                "price": "196.0",
+                "overall_rating": "4.5",
+                "comment_num": "200",
+                "label": "自助餐",
+                "keywords": [
+                    "不错",
+                    "一般",
+                    "高大",
+                    "丰富",
+                    "舒适",
+                    "确实",
+                    "精致",
+                    "完全",
+                    "甜腻",
+                    "厚切"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.301152,
+                    30.611923
+                ]
+            },
+            "properties": {
+                "name": "樱花糕坊(解放公园店)",
+                "address": "劳动街道解放公园路49号(近解放公园侧门)",
+                "tag": "美食;蛋糕甜品店",
+                "price": "20.0",
+                "overall_rating": "4.3",
+                "comment_num": "200",
+                "label": "面包店",
+                "keywords": [
+                    "不错",
+                    "不腻",
+                    "甜腻",
+                    "浓郁",
+                    "酥脆",
+                    "细腻",
+                    "很小",
+                    "最爱",
+                    "一般",
+                    "便宜"
+                ]
+            }
+        }
+    ]
+}

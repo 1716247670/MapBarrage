@@ -32,7 +32,8 @@
                 :speeds="200 - (danmu.content.length * 5)" isSuspend>
                 <template slot="dm" slot-scope="{ index, danmu }">
                     <div class="danmaku-name" v-if="danmu.name">
-                        <wordcloud :mainWord="{ text: danmu.name, weight: 10 }" :keywordsList="danmu.tagList">
+                        <wordcloud :mainWord="{ text: danmu.name, weight: 10 + Math.ceil((danmu.overall_rating - 4) * 10) }"
+                            :keywordsList="danmu.tagList">
                         </wordcloud>
                     </div>
                 </template>
@@ -175,8 +176,15 @@ export default {
                             temp.push({ text: '价格:' + point.price, weight: 9 })
                         }
                         if (point.keywords) {
-                            point.keywords.forEach((value, index) => {
-                                temp.push({ text: value, weight: 10 - index })
+                            point.keywords.forEach((keyword) => {
+                                let weight = Math.ceil(keyword[1] * 10)
+                                if (weight < 1) {
+                                    weight = 1
+                                }
+                                if (weight > 10) {
+                                    weight = 10
+                                }
+                                temp.push({ text: keyword[0], weight: weight })
                             })
                         }
                         // 如果数组长度小于10，补充默认元素
@@ -212,10 +220,10 @@ export default {
                             'interpolate',
                             ['linear'],
                             ['get', 'pointCount'], // 假设每个格网包含点的数量在属性中称为 pointCount
-                            minPointCount, 'rgba(0, 255, 0, 0.7)', // 最小点数时的颜色，绿色
-                            maxPointCount, 'rgba(255, 0, 0, 0.7)' // 最大点数时的颜色，红色
+                            minPointCount, '#008fbf', // 最小点数时的颜色，绿色
+                            maxPointCount, '#a00000' // 最大点数时的颜色，红色
                         ],
-                        'fill-opacity': 0.8 // 填充透明度
+                        'fill-opacity': 0.3 // 填充透明度
                     }
                 });
 
@@ -288,7 +296,7 @@ export default {
             this.stopDanmu();
 
             let imageType;
-            switch(e) {
+            switch (e) {
                 case 'scene':
                     imageType = 'attraction'
                     break;
